@@ -4,6 +4,9 @@
   <img src="https://raw.githubusercontent.com/CyanOperator/CyanOperator-Specification/refs/heads/main/media/CyanOperator_Logo.png" alt="Cyan Operator Logo"/>
 </p>
 
+> [!TIP]
+> New here? Basic documents can also be accessed from [here!][ORG_DOMAIN_URL]
+
 **Cyan Operator** is a software project that aims to build an advanced, digital personal assistant software for leading
 operating systems. The basic building block of the software is the `operator` that visually appear on the user's screen
 that also can interact with.
@@ -52,3 +55,5 @@ that includes various resources such as `Java` class files, UI elements such as 
 [`CyanOperator-Emulator-UI-Pack`](https://github.com/CyanOperator/CyanOperator-Emulator-UI-Pack).
 
 [ORG_DISCUSSIONS]: https://github.com/orgs/CyanOperator/discussions
+
+[ORG_DOMAIN_URL]: https://operator.cyanworks.org
