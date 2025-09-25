@@ -8,12 +8,12 @@
 > New here? Basic documents can also be accessed from [here!][ORG_DOMAIN_URL]
 
 **Cyan Operator** is a software project that aims to build an advanced, digital personal assistant software for leading
-operating systems. The basic building block of the software is the `operator` that visually appear on the user's screen
-that also can interact with.
+operating systems. The basic building block of the software is the `operator` that visually appears on the user's screen
+which can also interact with.
 
 > [!IMPORTANT]
-> If you're new to the project, we recommend to take a look at the [pinned discussions][ORG_DISCUSSIONS] and learn more
-> about how to proceed before dive in further!
+> If you're new to the project, we recommend taking a look at the [pinned discussions][ORG_DISCUSSIONS] and learn more
+> about how to proceed before diving in further!
 
 ## Repository Map
 
@@ -39,16 +39,16 @@ that also can interact with.
 - [CyanOperator-Designer-Lang-Pack](https://github.com/cyanoperator/cyanoperator-designer-lang-pack) - Community based
   localizations for Designer
 
-You can browse through the repositories to find the documentations, source codes and contributions guidelines for each
+You can browse through the repositories to find the documentation, source code, and contribution guidelines for each
 subproject.
 
 ## Any concern?
 
-Fear not! Open a discussion from [here][ORG_DISCUSSIONS] and ask anything the project you are not clear about. The
+Fear not! Open a discussion from [here][ORG_DISCUSSIONS] and ask anything about the project you are not clear about. The
 community will be happy to guide you!
 
 [^1]: Software Bundle - Each major _subproject_ is compiled to a bundle of resources such as compiled source files,
-scripts, visual resources, _minor subprojects_, etc. As an example, The [
+scripts, visual resources, _minor subprojects_, etc. As an example, the [
 `CyanOperator-Emulator`](https://github.com/CyanOperator/CyanOperator-Emulator) is a _software bundle_
 that includes various resources such as `Java` class files, UI elements such as icons, and also the subprojects,
 [`CyanOperator-Emulator-Lang-Pack`](https://github.com/CyanOperator/CyanOperator-Emulator-Lang-Pack) and
