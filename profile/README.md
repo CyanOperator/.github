@@ -4,23 +4,27 @@
   <img src="https://raw.githubusercontent.com/CyanOperator/CyanOperator-Specification/refs/heads/main/media/CyanOperator_Logo.png" alt="Cyan Operator Logo"/>
 </p>
 
-> [!TIP]
-> New here? Basic documents can also be accessed from [here!][ORG_DOMAIN_URL]
-
 **Cyan Operator** is a software project that aims to build an advanced, digital personal assistant software for leading
 operating systems. The basic building block of the software is the `operator` that visually appear on the user's screen
 that also can interact with.
 
+## Repository Map
+
+You can browse through the repositories to find the documentations, source codes and contributions guidelines for each
+subproject.
+
 > [!IMPORTANT]
-> If you're new to the project, we recommend to take a look at the [pinned discussions][ORG_DISCUSSIONS] and learn more
+> If you're new to the project, we recommend to take a look at the [root repository][ORG_DISCUSSIONS] and learn more
 > about how to proceed before dive in further!
 
-## Repository Map
+<details>
+
+<summary>Main projects related to Cyan Operator</summary>
 
 - [.github](https://github.com/cyanoperator/.github) - _GitHub_ profile of Cyan Operator.
 - [cyanoperator.github.io](https://github.com/cyanoperator/cyanoperator.github.io) - Official website hosted via _GitHub
   Pages_.
-- [CyanOperator](https://github.com/cyanoperator/cyanoperator) - Root repository
+- [CyanOperator][ORG_ROOT_REPO] - Root repository
 - [CyanOperator-Specification](https://github.com/cyanoperator/cyanoperator-specification) - Specifications for each
   software bundle[^1]
 - [CyanOperator-Server](https://github.com/cyanoperator/cyanoperator-server) - Server application for software
@@ -39,8 +43,15 @@ that also can interact with.
 - [CyanOperator-Designer-Lang-Pack](https://github.com/cyanoperator/cyanoperator-designer-lang-pack) - Community based
   localizations for Designer
 
-You can browse through the repositories to find the documentations, source codes and contributions guidelines for each
-subproject.
+</details>
+
+<details>
+
+<summary>Sub projects related to Cyan Operator</summary>
+
+Nothing for now!
+
+</details>
 
 ## Any concern?
 
@@ -53,6 +64,8 @@ scripts, visual resources, _minor subprojects_, etc. As an example, The [
 that includes various resources such as `Java` class files, UI elements such as icons, and also the subprojects,
 [`CyanOperator-Emulator-Lang-Pack`](https://github.com/CyanOperator/CyanOperator-Emulator-Lang-Pack) and
 [`CyanOperator-Emulator-UI-Pack`](https://github.com/CyanOperator/CyanOperator-Emulator-UI-Pack).
+
+[ORG_ROOT_REPO]: https://github.com/cyanoperator/cyanoperator
 
 [ORG_DISCUSSIONS]: https://github.com/orgs/CyanOperator/discussions
 
