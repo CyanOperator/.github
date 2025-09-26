@@ -14,7 +14,7 @@ You can browse through the repositories to find the documentations, source codes
 subproject.
 
 > [!IMPORTANT]
-> If you're new to the project, we recommend to take a look at the [root repository][ORG_DISCUSSIONS] and learn more
+> If you're new to the project, we recommend to take a look at the [root repository][ORG_ROOT_REPO] and learn more
 > about how to proceed before dive in further!
 
 <details>
