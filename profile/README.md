@@ -4,9 +4,9 @@
   <img src="https://raw.githubusercontent.com/CyanOperator/CyanOperator-Specification/main/media/CyanOperator_Logo.png" alt="Cyan Operator Logo"/>
 </p>
 
-**Cyan Operator** is a software project that aims to build an advanced, digital personal assistant software for leading
-operating systems. The basic building block of the software is the `operator` that visually appear on the user's screen
-that also can interact with.
+**Cyan Operator** is a software project that aims to build an advanced, graphical personal assistant software for
+leading operating systems. The basic building block of the software is the `operator` that visually appears on the
+user's screen which can also interact with (simply an animated character).
 
 ## Repository Map
 
@@ -26,9 +26,8 @@ subproject.
   Pages_.
 - [CyanOperator][ORG_ROOT_REPO] - Root repository
 - [CyanOperator-Specification](https://github.com/cyanoperator/cyanoperator-specification) - Specifications for each
-  software bundle[^1]
-- [CyanOperator-Server](https://github.com/cyanoperator/cyanoperator-server) - Server application for software
-  bundles[^1]
+  software or resource group
+- [CyanOperator-Server](https://github.com/cyanoperator/cyanoperator-server) - Server application
 - [CyanOperator-Operator-Pack](https://github.com/cyanoperator/cyanoperator-operator-pack) - Community based operators
 - [CyanOperator-Emulator](https://github.com/cyanoperator/cyanoperator-emulator) - Client application for emulate
   operators
@@ -81,13 +80,6 @@ limitations under the License.
 ```
 
 </details>
-
-[^1]: Software Bundle - Each major _subproject_ is compiled to a bundle of resources such as compiled source files,
-scripts, visual resources, _minor subprojects_, etc. As an example, The [
-`CyanOperator-Emulator`](https://github.com/CyanOperator/CyanOperator-Emulator) is a _software bundle_
-that includes various resources such as `Java` class files, UI elements such as icons, and also the subprojects,
-[`CyanOperator-Emulator-Lang-Pack`](https://github.com/CyanOperator/CyanOperator-Emulator-Lang-Pack) and
-[`CyanOperator-Emulator-UI-Pack`](https://github.com/CyanOperator/CyanOperator-Emulator-UI-Pack).
 
 [ORG_ROOT_REPO]: https://github.com/cyanoperator/cyanoperator
 
