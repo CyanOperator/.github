@@ -1,7 +1,7 @@
 # Cyan Operator
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyanOperator/CyanOperator-Specification/refs/heads/main/media/CyanOperator_Logo.png" alt="Cyan Operator Logo"/>
+  <img src="https://raw.githubusercontent.com/CyanOperator/CyanOperator-Specification/main/media/CyanOperator_Logo.png" alt="Cyan Operator Logo"/>
 </p>
 
 **Cyan Operator** is a software project that aims to build an advanced, digital personal assistant software for leading
